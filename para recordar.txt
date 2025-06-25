@@ -1,0 +1,9 @@
+
+
+cd backend
+./mvnw spring-boot:run
+
+
+cd frontend/delicia-app
+npm install
+npm run dev
